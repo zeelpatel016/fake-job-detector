@@ -25,7 +25,7 @@ python app.py
 
 ## 📸 Screenshot
 
-![View Screenshot](Screenshot.png)
+![Click here to view Screenshot](Screenshot.png)
 
 
 ## 📌 Note
