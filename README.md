@@ -29,3 +29,5 @@ python app.py
 
 ## 📌 Note
 This is a basic learning project meant for beginners.
+## 🌐 Live Demo
+[Click here to try the Fake Job Detector](https://fake-job-detector-i8w4imryckhmtojcetshvx.streamlit.app/)
