@@ -24,9 +24,8 @@ python app.py
 - screenshot.png 
 
 ## 📸 Screenshot
-Add your screenshot as screenshot.png and display it like this:
 
-![App Screenshot](Screenshot.png)
+![View Screenshot](Screenshot.png)
 
 
 ## 📌 Note
