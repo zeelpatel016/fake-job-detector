@@ -25,8 +25,7 @@ python app.py
 
 ## 📸 Screenshot
 
-![Click here to view Screenshot](Screenshot.png)
-
+<a href="Screenshot.png">Click here to view the screenshot</a>
 
 ## 📌 Note
 This is a basic learning project meant for beginners.
